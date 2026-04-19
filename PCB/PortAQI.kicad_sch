@@ -2079,7 +2079,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "footprints:SSD1306-0.91-OLED-4pin-128x32"
+		(property "Footprint" ""
 			(at 273.05 73.66 0)
 			(effects
 				(font
@@ -2635,7 +2635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32-C3_SUPERMINI_TH:MODULE_ESP32-C3_SUPERMINI_TH"
+		(property "Footprint" "footprints:MODULE_ESP32-C3_SUPERMINI_TH"
 			(at 234.95 130.81 0)
 			(effects
 				(font
